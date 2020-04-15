@@ -11,6 +11,5 @@ Rules of the Game :
 For background pattern images checkout the following website-
 https://www.flaticon.com/home
 
-For button icons checkout the following website- 
-https://iconify.design/
+
 
